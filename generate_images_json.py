@@ -1,6 +1,6 @@
 import os
 import json
-
+#makes the JSONs in the slides folders
 root_folder = "./"  # Adjust if your images folders are in a subfolder
 
 for folder_name in os.listdir(root_folder):
